@@ -1,0 +1,7 @@
+Machine learning - trains or teaches the machine to perform a task. 
+It automatically learns and improves the way it performs the task from experience.
+
+For example : If you go to buy a simcard there we would have an application where we need 
+to take a photograph of the person and then we also need to scan the aadhar card of the person.
+The application will automatically detect the face in the aadhar card and matches it with the 
+person present there. If both the faces match then the sim is registered successfully.
